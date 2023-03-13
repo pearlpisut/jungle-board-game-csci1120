@@ -1,0 +1,11 @@
+F2 c
+B3 l
+C3 p
+G3 e
+E4 R
+B5 r
+D5 L
+A6 w
+D6 T
+E7 t
+A8 E
